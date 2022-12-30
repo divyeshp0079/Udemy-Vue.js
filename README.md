@@ -12,7 +12,9 @@ npm install -g @vue/cli
 yarn global add @vue/cli
 
 Setp 2 => Create a project:
-#OR
+<br/>
 vue create my-project
+<br/>
+vue ui
 
 
