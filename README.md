@@ -6,13 +6,9 @@ Getting Started
 How to setup Vue.js CLI 
 
 Setp 1 => Install:
-
 npm install -g @vue/cli
-# OR
 yarn global add @vue/cli
 
 Setp 2 => Create a project:
-
 vue create my-project
-# OR
 vue ui
